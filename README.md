@@ -6,6 +6,8 @@
 
 纯javascript实现，直接单文件部署，离线随便用。
 
+演示地址：https://coverdesign.937788.xyz
+
 
 ##  核心特性
 
